@@ -1,0 +1,11 @@
+{
+  "name": "survival",
+  "version": "1.0.0",
+  "description": "survival game made with phaserjs",
+  "main": "index.js",
+  "author": "Eric Bastarache",
+  "license": "MIT",
+  "dependencies": {
+    "phaser-ce": "2.8.0"
+  }
+}
